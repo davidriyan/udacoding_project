@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "311704879639",
+    "project_id": "udacoding-project-58359",
+    "storage_bucket": "udacoding-project-58359.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311704879639:android:fd9645005dfedf99d99252",
+        "android_client_info": {
+          "package_name": "com.project.crud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRicxUsTX1U-Qrq4bkCJXVLlhQMlNEXkk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
